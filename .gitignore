@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+android/
+ios/
+dist/
+dist-web/
+reloj/.gradle/
+reloj/build/
+reloj/app/build/
+reloj/wear/build/
+local.properties
+reloj/local.properties

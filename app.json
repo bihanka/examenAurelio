@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MetaAhorro",
+    "slug": "metaahorro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.metaahorro.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0E4F38"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "color": "#0E4F38"
+        }
+      ]
+    ]
+  }
+}
